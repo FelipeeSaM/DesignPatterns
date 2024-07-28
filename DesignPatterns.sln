@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Criacional", "Criacional", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{4192802D-1B60-45F7-A52C-0EF394F83BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{5C5443BA-17DA-4A5A-A870-C7C444502D90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{4192802D-1B60-45F7-A52C-0EF394F83BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4192802D-1B60-45F7-A52C-0EF394F83BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4192802D-1B60-45F7-A52C-0EF394F83BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5443BA-17DA-4A5A-A870-C7C444502D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5443BA-17DA-4A5A-A870-C7C444502D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5443BA-17DA-4A5A-A870-C7C444502D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5443BA-17DA-4A5A-A870-C7C444502D90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4192802D-1B60-45F7-A52C-0EF394F83BBB} = {915C23A9-48C8-46B1-A6DF-A90B87C24581}
+		{5C5443BA-17DA-4A5A-A870-C7C444502D90} = {915C23A9-48C8-46B1-A6DF-A90B87C24581}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C99A8AD1-207A-4FF5-B305-2E07D3537C9F}
