@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PizzaSimpleFactory
+namespace SimpleFactory
 {
     public class PizzaMussarela : Pizza
     {

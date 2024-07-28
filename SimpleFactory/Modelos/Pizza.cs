@@ -1,4 +1,4 @@
-﻿namespace PizzaSimpleFactory
+﻿namespace SimpleFactory
 {
     public abstract class Pizza
     {
