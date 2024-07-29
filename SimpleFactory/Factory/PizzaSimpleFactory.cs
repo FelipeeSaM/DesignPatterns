@@ -10,7 +10,7 @@ namespace SimpleFactory
             switch (tipo)
             {
                 case "C":
-                    pizza = new PizzaCalabreza();
+                    pizza = new Pizzacalabresa();
                     break;
                 case "M":
                     pizza = new PizzaMussarela();

@@ -5,10 +5,10 @@
     {
         public PizzaCalabresaSP()
         {
-            Nome = "Pizza de calabreza Paulista com muita calabreza";
+            Nome = "Pizza de calabresa Paulista com muita calabresa";
             massa = "Massa fina crocante";
             molho = "Molho de tomate italiano";
-            ingredientes.Add("Fatias de calabreza defumada especial");
+            ingredientes.Add("Fatias de calabresa defumada especial");
             ingredientes.Add("Queijo parmessão italiano tradicional");
         }
     }

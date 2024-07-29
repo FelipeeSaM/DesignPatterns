@@ -7,7 +7,7 @@ namespace Factory {
             Console.WriteLine("Informe o local (S)São Paulo  (R)Rio de Janeiro");
             var localEscolhido = Console.ReadLine().ToUpper();
 
-            Console.WriteLine("Escolha a pizza (M)ussarela  (C)Calabreza");
+            Console.WriteLine("Escolha a pizza (M)ussarela  (C)calabresa");
             var pizzaEscolhida = Console.ReadLine().ToUpper();
 
             try {

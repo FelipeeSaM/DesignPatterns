@@ -5,10 +5,10 @@
     {
         public PizzaCalabresaRJ()
         {
-            Nome = "Pizza de calabreza Carioca com cebola";
+            Nome = "Pizza de calabresa Carioca com cebola";
             massa = "Massa tradicional carioca";
             molho = "Molho de tomate italiano carioca";
-            ingredientes.Add("Fatias de calabreza especial");
+            ingredientes.Add("Fatias de calabresa especial");
             ingredientes.Add("Queijo parmessão italiano tradicional");
         }
     }

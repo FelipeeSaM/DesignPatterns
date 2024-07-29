@@ -2,11 +2,11 @@
 
 namespace SimpleFactory
 {
-    public class PizzaCalabreza : Pizza
+    public class Pizzacalabresa : Pizza
     {
-        public PizzaCalabreza()
+        public Pizzacalabresa()
         {
-            Nome = "Pizza de Calabreza";
+            Nome = "Pizza de calabresa";
         }
         public override void Preparar()
         {
