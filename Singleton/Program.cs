@@ -15,7 +15,7 @@
 
         private static void AcessoThread2() {
             PadraoSingleton s1 = PadraoSingleton.Instance();
-            Console.WriteLine("Thread 2");
+            Console.WriteLine("Thread 2 ");
         }
     }
 }
