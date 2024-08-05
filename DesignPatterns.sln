@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{40A09DB9-77D9-40BD-9F7C-08579B30930D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{A339CE90-1333-45CD-A4F9-F51252003380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{A339CE90-1333-45CD-A4F9-F51252003380}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estrutural", "Estrutural", "{EA896180-FE47-4161-AC4C-729079BB9F35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{69CC6D6E-0FAD-4429-8003-1C3C3129354C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +51,10 @@ Global
 		{A339CE90-1333-45CD-A4F9-F51252003380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A339CE90-1333-45CD-A4F9-F51252003380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A339CE90-1333-45CD-A4F9-F51252003380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CC6D6E-0FAD-4429-8003-1C3C3129354C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CC6D6E-0FAD-4429-8003-1C3C3129354C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CC6D6E-0FAD-4429-8003-1C3C3129354C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CC6D6E-0FAD-4429-8003-1C3C3129354C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +66,7 @@ Global
 		{9E7626C6-BCB1-47FE-883C-E669507B7A09} = {915C23A9-48C8-46B1-A6DF-A90B87C24581}
 		{40A09DB9-77D9-40BD-9F7C-08579B30930D} = {915C23A9-48C8-46B1-A6DF-A90B87C24581}
 		{A339CE90-1333-45CD-A4F9-F51252003380} = {915C23A9-48C8-46B1-A6DF-A90B87C24581}
+		{69CC6D6E-0FAD-4429-8003-1C3C3129354C} = {EA896180-FE47-4161-AC4C-729079BB9F35}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C99A8AD1-207A-4FF5-B305-2E07D3537C9F}
