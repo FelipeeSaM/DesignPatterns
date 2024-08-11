@@ -30,7 +30,7 @@ namespace Bridge {
             //define os dados do funcionário
             Funcionario funcionario = new Funcionario {
                 Id = 101,
-                Nome = "Macoratti",
+                Nome = "Eu mesmo",
                 SalarioBase = 3000,
                 Incentivo = 2000
             };
