@@ -5,6 +5,7 @@ using Bridge.RefinedAbstration;
 namespace Bridge {
     internal class Program {
         static void Main(string[] args) {
+            #region explicação
             // quando usar:
             /*
              * quando queremos ocultar os detalhes de implementação do cliente;
@@ -20,6 +21,7 @@ namespace Bridge {
              * ajuda a promover o princípio open-closed;
              * facilita a extensibilidade
              */
+            #endregion
 
             // RedefinedAbstraction recebe via construtor em tempo de execução 
             // o tipo especifico de formato para gerar o arquivo
