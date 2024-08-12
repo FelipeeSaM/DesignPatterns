@@ -1,7 +1,7 @@
-﻿using Facade1.Subsistemas;
+﻿using Facade.Subsistemas;
 using System;
 
-namespace Facade1.Facade
+namespace Facade.Facade
 {
     public class MeuFacade
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Facade1.Subsistemas
+namespace Facade.Subsistemas
 {
     public class Cadastro
     {
